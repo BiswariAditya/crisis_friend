@@ -182,6 +182,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   Padding(
                     padding: const EdgeInsets.all(10.0),
                     child: RichText(
+                      textAlign: TextAlign.center,
                       text: TextSpan(
                         style: GoogleFonts.alike(
                           textStyle: const TextStyle(
