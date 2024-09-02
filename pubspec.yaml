@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   kommunicate_flutter: ^1.9.5
   carousel_slider: ^5.0.0
+  google_fonts: ^6.2.1
+  url_launcher: ^6.1.6
+  webview_flutter: ^4.9.0
 
 dev_dependencies:
   flutter_test:
